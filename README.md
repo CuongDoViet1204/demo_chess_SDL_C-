@@ -1,1 +1,1 @@
-# demo_chess_SDL_C-
+# demo_chess_SDL_C++
